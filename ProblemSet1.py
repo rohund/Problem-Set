@@ -7,7 +7,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "#Exercise 0"
+    "#Exercise 0 "
    ]
   },
   {
