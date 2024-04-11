@@ -15,7 +15,7 @@ def github() -> str:
     Connecting to GitHub repository
     """
 
-    return "https://github.com/rohund/Problem-Set/blob/main/ProblemSet1.py"
+    return "https://github.com/rohund/Problem-Set/blob/main/ProblemSet1%20(1).py"
 
 
 # In[4]:
